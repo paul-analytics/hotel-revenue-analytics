@@ -1,0 +1,26 @@
+{
+  "name": "Horizon Hotel Executive Theme",
+  "dataColors": ["#0F2C59", "#1F4E8C", "#2E6DB4", "#4A90D9", "#7FB3E8", "#B8D4F0"],
+  "background": "#FFFFFF",
+  "foreground": "#1B2A4A",
+  "tableAccent": "#1F4E8C",
+  "good": "#2E8B57",
+  "neutral": "#E8A33D",
+  "bad": "#C0392B",
+  "maximum": "#0F2C59",
+  "center": "#4A90D9",
+  "minimum": "#B8D4F0",
+  "textClasses": {
+    "callout": { "fontSize": 28, "color": "#1B2A4A", "fontFace": "Segoe UI Semibold" },
+    "title": { "fontSize": 13, "color": "#1B2A4A", "fontFace": "Segoe UI Semibold" },
+    "label": { "fontSize": 11, "color": "#5A6B8C" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 8 }]
+      }
+    }
+  }
+}
